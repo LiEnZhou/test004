@@ -7,4 +7,6 @@ Console.WriteLine("Hello, World4!");Console.WriteLine("Hello, World2!");
 Console.WriteLine("Hello, 修改!");
 Console.WriteLine("Hello, 再修改!");
 Console.WriteLine("Hello, World5!");
+Console.WriteLine("Hello, feature分支!");
+Console.WriteLine("Hello, 分支修改!");Console.WriteLine("Hello, World5!");
 Console.WriteLine("Hello, World6!");
